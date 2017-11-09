@@ -1,0 +1,6 @@
+//判断方法是否存在
+if( typeof init === 'function' ){
+    init();//init()
+}else{
+    //does not exist
+}
